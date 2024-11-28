@@ -2,7 +2,7 @@
 
 - I'm @Romainqfp
 - 🤖 I've got a degree in embbeded computing
-- 👷 I currently work as an enterprise architect engineer
+- 👷 I currently work as an enterprise architect
 - I'm interested in CI/CD technology
 - I'm currently working and learning on network services
 <!--
